@@ -1,0 +1,24 @@
+spring:
+  thymeleaf:
+    cache: false
+    encoding: UTF-8
+    mode: HTML
+    prefix: classpath:/templates/
+    suffix: .html
+    servlet:
+      content-type: text/html
+  redis:
+    cluster:
+      nodes: 172.17.15.71:6379,172.17.15.72:6379,172.17.15.73:6379
+    password:
+  datasource:
+    url: jdbc:mysql://172.17.15.161:3306/adpost?serverTimezone=CTT&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+    username: appuser
+    password: qianbao123456
+server:
+  port: 8888
+mybatis:
+  type-aliases-package: com.models
+  mapper-locations: mapper/*
+debug: true
+
