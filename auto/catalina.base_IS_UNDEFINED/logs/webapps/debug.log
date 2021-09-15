@@ -1,0 +1,8 @@
+2020-12-29 15:43:01.271 [restartedMain] DEBUG com.AutoApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-29 15:43:05.619 [restartedMain] DEBUG com.zaxxer.hikari.HikariConfig - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@62ba4b1b
+2020-12-29 15:52:48.971 [main] DEBUG com.auto.AutoApplicationTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-29 15:52:52.978 [main] DEBUG com.zaxxer.hikari.HikariConfig - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@4aa298b7
+2020-12-29 15:57:31.037 [main] DEBUG com.auto.AutoApplicationTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-29 15:57:35.281 [main] DEBUG com.zaxxer.hikari.HikariConfig - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@4aa298b7
+2020-12-29 16:17:50.784 [restartedMain] DEBUG com.AutoApplication - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-12-29 16:17:53.950 [restartedMain] DEBUG com.zaxxer.hikari.HikariConfig - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@433e5286

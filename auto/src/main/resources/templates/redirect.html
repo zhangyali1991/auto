@@ -1,0 +1,20 @@
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <title th:text="广告跳转"></title>
+</head>
+
+<body>
+
+<form action="/click" method="post">
+    <p><b>根据addId进行点击</b></p>
+    <font color="#FF0000"> *</font>点击次数:&nbsp;&nbsp;&nbsp;&nbsp;<input name="count" type="text" ><br>
+    <font color="#FF0000"> *</font>addId: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="uuid" type="text" ><br>
+    <font color="#FF0000"> *</font>流量主名称:<input name="trafficName" type="text" ><br>
+    <font color="#FF0000"> *</font>车场名称:&nbsp;&nbsp;&nbsp;&nbsp;<input name="parkingName" type="text" ><br>
+    <br><input type="submit" value="提交">
+</form>
+
+
+</body>
+
+</html>

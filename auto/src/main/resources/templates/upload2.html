@@ -1,0 +1,11 @@
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>多文件上传</title>
+</head>
+<form action="uploadFiles" method="post" enctype="multipart/form-data">
+    <input type="file" name="files" value="请选择文件1" required="required"/> <!--required="required"必填校验-->
+    <input type="file" name="files" value="请选择文件2" required="required"/> <!--required="required"必填校验-->
+    <input type="submit" value="上传"/>
+</form>
+</html>

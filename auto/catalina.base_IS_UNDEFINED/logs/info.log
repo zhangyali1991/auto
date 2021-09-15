@@ -1,0 +1,106 @@
+2021-09-13 10:33:55.329 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 26684 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:33:55.350 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:34:01.223 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 6.875 seconds (JVM running for 9.419)
+2021-09-13 10:35:18.957 [http-nio-8888-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 10:35:19.990 [http-nio-8888-exec-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 10:36:04.510 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 6164 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:36:04.515 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:36:10.079 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 6.401 seconds (JVM running for 8.504)
+2021-09-13 10:36:21.763 [http-nio-8888-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 10:36:22.703 [http-nio-8888-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 10:37:48.140 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 25160 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:37:48.145 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:37:53.828 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 6.54 seconds (JVM running for 8.454)
+2021-09-13 10:38:08.897 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 10:38:09.792 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 10:39:52.493 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 23940 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:39:52.498 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:39:58.319 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 6.932 seconds (JVM running for 8.799)
+2021-09-13 10:43:30.510 [http-nio-8888-exec-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 10:43:31.397 [http-nio-8888-exec-6] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 10:43:53.483 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 27108 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:43:53.498 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:43:59.815 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 7.726 seconds (JVM running for 10.084)
+2021-09-13 10:44:44.304 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 10:44:45.221 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 10:49:45.242 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-09-13 10:49:45.259 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-09-13 10:49:55.556 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 28536 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:49:55.561 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:50:02.223 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 7.514 seconds (JVM running for 10.171)
+2021-09-13 10:50:09.252 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 10:50:10.195 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 10:51:36.347 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-09-13 10:51:36.379 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-09-13 10:52:17.601 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 29348 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 10:52:17.605 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 10:52:23.954 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 7.352 seconds (JVM running for 9.51)
+2021-09-13 11:10:46.038 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 11:10:46.936 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 13:38:47.598 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 29636 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 13:38:47.603 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 13:38:53.256 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 7.052 seconds (JVM running for 9.247)
+2021-09-13 15:01:34.700 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 27400 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 15:01:34.743 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 15:01:40.280 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 6.61 seconds (JVM running for 8.834)
+2021-09-13 15:02:29.377 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28320 (started by zhangyali in D:\work\auto)
+2021-09-13 15:02:29.381 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:03:49.839 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28772 (started by zhangyali in D:\work\auto)
+2021-09-13 15:03:49.843 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:06:21.547 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 25476 (started by zhangyali in D:\work\auto)
+2021-09-13 15:06:21.560 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:14:54.100 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 26744 (started by zhangyali in D:\work\auto)
+2021-09-13 15:14:54.112 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:15:37.035 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 26588 (started by zhangyali in D:\work\auto)
+2021-09-13 15:15:37.081 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:16:06.154 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28460 (started by zhangyali in D:\work\auto)
+2021-09-13 15:16:06.246 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:21:02.695 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28896 (started by zhangyali in D:\work\auto)
+2021-09-13 15:21:02.715 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:31:16.729 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 27320 (started by zhangyali in D:\work\auto)
+2021-09-13 15:31:16.733 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:34:39.520 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 26180 (started by zhangyali in D:\work\auto)
+2021-09-13 15:34:39.540 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:41:54.321 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28280 (started by zhangyali in D:\work\auto)
+2021-09-13 15:41:54.385 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:43:15.602 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28412 (started by zhangyali in D:\work\auto)
+2021-09-13 15:43:15.606 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:54:58.917 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 28192 (started by zhangyali in D:\work\auto)
+2021-09-13 15:54:58.921 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 15:59:02.037 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 24764 (started by zhangyali in D:\work\auto)
+2021-09-13 15:59:02.112 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:00:00.619 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 23908 (started by zhangyali in D:\work\auto)
+2021-09-13 16:00:00.623 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:00:11.869 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 14128 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 16:00:11.874 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 16:00:19.772 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 8.761 seconds (JVM running for 11.753)
+2021-09-13 16:00:37.785 [http-nio-8888-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-13 16:00:38.853 [http-nio-8888-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-13 16:01:10.207 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 29172 (started by zhangyali in D:\work\auto)
+2021-09-13 16:01:10.211 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:11:34.868 [Thread-16] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2021-09-13 16:11:34.906 [Thread-16] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2021-09-13 16:11:50.573 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 23648 (started by zhangyali in D:\work\auto)
+2021-09-13 16:11:50.577 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:13:44.750 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 18128 (started by zhangyali in D:\work\auto)
+2021-09-13 16:13:44.758 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:13:56.450 [main] INFO  com.Test - Started Test in 13.262 seconds (JVM running for 15.133)
+2021-09-13 16:19:12.167 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 25732 (started by zhangyali in D:\work\auto)
+2021-09-13 16:19:12.175 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:19:42.390 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 27760 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 16:19:42.395 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 16:20:32.105 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 28224 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2021-09-13 16:20:32.109 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2021-09-13 16:20:39.487 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 8.091 seconds (JVM running for 10.736)
+2021-09-13 16:20:51.913 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 27920 (started by zhangyali in D:\work\auto)
+2021-09-13 16:20:52.146 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:21:03.566 [main] INFO  com.Test - Started Test in 12.567 seconds (JVM running for 14.418)
+2021-09-13 16:30:11.995 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 29296 (started by zhangyali in D:\work\auto)
+2021-09-13 16:30:12.009 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:30:21.989 [main] INFO  com.Test - Started Test in 10.885 seconds (JVM running for 12.661)
+2021-09-13 16:43:52.154 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 18992 (started by zhangyali in D:\work\auto)
+2021-09-13 16:43:52.162 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 16:44:02.424 [main] INFO  com.Test - Started Test in 11.61 seconds (JVM running for 13.576)
+2021-09-13 17:48:06.065 [main] INFO  com.Test - Starting Test using Java 1.8.0_241 on HDB-20180117GFW with PID 12168 (started by zhangyali in D:\work\auto)
+2021-09-13 17:48:06.076 [main] INFO  com.Test - No active profile set, falling back to default profiles: default
+2021-09-13 17:48:15.267 [main] INFO  com.Test - Started Test in 10.214 seconds (JVM running for 12.169)
