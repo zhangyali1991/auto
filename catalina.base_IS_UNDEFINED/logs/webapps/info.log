@@ -1,0 +1,12 @@
+2020-12-29 15:43:01.255 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 12720 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2020-12-29 15:43:01.283 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2020-12-29 15:43:06.859 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 7.329 seconds (JVM running for 10.327)
+2020-12-29 15:52:48.969 [main] INFO  com.auto.AutoApplicationTests - Starting AutoApplicationTests using Java 1.8.0_241 on HDB-20180117GFW with PID 10460 (started by zhangyali in D:\work\auto)
+2020-12-29 15:52:48.973 [main] INFO  com.auto.AutoApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-29 15:52:55.943 [main] INFO  com.auto.AutoApplicationTests - Started AutoApplicationTests in 7.735 seconds (JVM running for 9.567)
+2020-12-29 15:57:31.036 [main] INFO  com.auto.AutoApplicationTests - Starting AutoApplicationTests using Java 1.8.0_241 on HDB-20180117GFW with PID 5224 (started by zhangyali in D:\work\auto)
+2020-12-29 15:57:31.040 [main] INFO  com.auto.AutoApplicationTests - No active profile set, falling back to default profiles: default
+2020-12-29 15:57:38.286 [main] INFO  com.auto.AutoApplicationTests - Started AutoApplicationTests in 8.213 seconds (JVM running for 9.894)
+2020-12-29 16:17:50.780 [restartedMain] INFO  com.AutoApplication - Starting AutoApplication using Java 1.8.0_241 on HDB-20180117GFW with PID 13732 (D:\work\auto\target\classes started by zhangyali in D:\work\auto)
+2020-12-29 16:17:50.785 [restartedMain] INFO  com.AutoApplication - No active profile set, falling back to default profiles: default
+2020-12-29 16:17:55.096 [restartedMain] INFO  com.AutoApplication - Started AutoApplication in 5.238 seconds (JVM running for 7.369)

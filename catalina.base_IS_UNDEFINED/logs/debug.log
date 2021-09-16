@@ -1,0 +1,9 @@
+2021-09-15 17:46:04.232 [main] INFO  com.auto.AutoApplicationTests - Starting AutoApplicationTests using Java 1.8.0_241 on HDB-20180117GFW with PID 26664 (started by zhangyali in D:\work\auto)
+2021-09-15 17:46:04.246 [main] INFO  com.auto.AutoApplicationTests - No active profile set, falling back to default profiles: default
+2021-09-15 17:46:13.732 [main] INFO  com.auto.AutoApplicationTests - Started AutoApplicationTests in 10.263 seconds (JVM running for 12.153)
+2021-09-15 17:56:06.039 [main] INFO  com.auto.AutoApplicationTests - Starting AutoApplicationTests using Java 1.8.0_241 on HDB-20180117GFW with PID 7508 (started by zhangyali in D:\work\auto)
+2021-09-15 17:56:06.042 [main] INFO  com.auto.AutoApplicationTests - No active profile set, falling back to default profiles: default
+2021-09-15 17:56:14.752 [main] INFO  com.auto.AutoApplicationTests - Started AutoApplicationTests in 9.292 seconds (JVM running for 10.956)
+2021-09-15 17:57:15.661 [main] INFO  com.auto.AutoApplicationTests - Starting AutoApplicationTests using Java 1.8.0_241 on HDB-20180117GFW with PID 7296 (started by zhangyali in D:\work\auto)
+2021-09-15 17:57:15.668 [main] INFO  com.auto.AutoApplicationTests - No active profile set, falling back to default profiles: default
+2021-09-15 17:57:23.966 [main] INFO  com.auto.AutoApplicationTests - Started AutoApplicationTests in 8.846 seconds (JVM running for 10.597)
