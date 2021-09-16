@@ -7,7 +7,7 @@
     <!-- 当前日志级别为 DEBUG -->
     <property name="log.level" value="DEBUG"/>
     <property name="log.maxHistory" value="30"/>
-    <property name="log.filePath" value="${catalina.base}/logs/"/>
+    <property name="log.filePath" value="/apps/logs/auto"/>
 <!--    <property name="log.filePath" value="${catalina.base}/logs/webapps"/>-->
     <property name="log.pattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n"/>
 
